@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: 4ba358e18628dc545b85086573c65359
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8748476148437281810
+    second: combat_updated_0
+  - first:
+      213: -1563467752075032759
+    second: combat_updated_1
+  - first:
+      213: -7231170965505823715
+    second: combat_updated_2
+  - first:
+      213: -3227456427991303392
+    second: combat_updated_3
+  - first:
+      213: 4560344839099279447
+    second: combat_updated_4
+  - first:
+      213: 2944643596424886426
+    second: combat_updated_5
+  - first:
+      213: -199174649603529453
+    second: combat_updated_6
+  - first:
+      213: 7426536631436051734
+    second: combat_updated_7
+  - first:
+      213: -1555755170642113946
+    second: combat_updated_8
+  - first:
+      213: -7290539511199954909
+    second: combat_updated_9
+  - first:
+      213: -4124731739027366227
+    second: combat_updated_10
+  - first:
+      213: -1145279110665485175
+    second: combat_updated_11
+  - first:
+      213: -7170225882047947597
+    second: umbrella
+  - first:
+      213: 3482264931588965227
+    second: combat_updated_13
+  - first:
+      213: 8932382129070685705
+    second: combat_updated_14
+  - first:
+      213: -3672532184779987000
+    second: combat_updated_15
+  - first:
+      213: 2984744458496888240
+    second: combat_updated_16
+  - first:
+      213: -2507471588570971570
+    second: combat_updated_17
+  - first:
+      213: -6776225411287495964
+    second: combat_updated_18
+  - first:
+      213: 5888913325161048301
+    second: combat_updated_19
+  - first:
+      213: 6473278771003092607
+    second: combat_updated_20
+  - first:
+      213: -12495914874930384
+    second: combat_updated_21
+  - first:
+      213: -2717229393954955698
+    second: combat_updated_22
+  - first:
+      213: -516906656067615918
+    second: combat_updated_23
+  - first:
+      213: 2251680958662784092
+    second: combat_updated_24
+  - first:
+      213: 4501285492535815340
+    second: combat_updated_25
+  - first:
+      213: 4483538741165097258
+    second: combat_updated_26
+  - first:
+      213: 5916780677032748628
+    second: combat_updated_27
+  - first:
+      213: 7768643708951853797
+    second: combat_updated_28
+  - first:
+      213: 6494582010046425213
+    second: combat_updated_29
+  - first:
+      213: -8644221331487233099
+    second: combat_updated_30
+  - first:
+      213: 8646826301987706553
+    second: combat_updated_31
+  - first:
+      213: 670626249510485587
+    second: combat_updated_32
+  - first:
+      213: 1296344330560873361
+    second: combat_updated_33
+  - first:
+      213: -9042582044728290859
+    second: combat_updated_34
+  - first:
+      213: -4458122194771548581
+    second: combat_updated_35
+  - first:
+      213: 6825387029977497843
+    second: combat_updated_36
+  - first:
+      213: -8330688333580531821
+    second: combat_updated_37
+  - first:
+      213: -3910711791504187223
+    second: combat_updated_38
+  - first:
+      213: -1955263267673311816
+    second: combat_updated_39
+  - first:
+      213: 4534144929048271953
+    second: combat_updated_40
+  - first:
+      213: 72659553780209743
+    second: combat_updated_41
+  - first:
+      213: 8451948100401901869
+    second: combat_updated_42
+  - first:
+      213: -1350722199379167044
+    second: combat_updated_43
+  - first:
+      213: 5086043148694755495
+    second: combat_updated_44
+  - first:
+      213: -3374003515107877732
+    second: combat_updated_45
+  - first:
+      213: 8950073703411465059
+    second: combat_updated_46
+  - first:
+      213: 2712121418031136159
+    second: combat_updated_47
+  - first:
+      213: 1665765156619762983
+    second: combat_updated_48
+  - first:
+      213: -7477822645758431129
+    second: combat_updated_49
+  - first:
+      213: 1493651950957659209
+    second: combat_updated_50
+  - first:
+      213: 3864032438297015840
+    second: combat_updated_51
+  - first:
+      213: -7376388083611511073
+    second: combat_updated_52
+  - first:
+      213: 9148042299406976773
+    second: combat_updated_53
+  - first:
+      213: -7770381960855375466
+    second: combat_updated_54
+  - first:
+      213: -638469079491348456
+    second: combat_updated_55
+  - first:
+      213: 6221107915917414909
+    second: combat_updated_56
+  - first:
+      213: -3331162373545466191
+    second: combat_updated_57
+  - first:
+      213: -8028022635667174883
+    second: combat_updated_58
+  - first:
+      213: -8362971176372202730
+    second: combat_updated_59
+  - first:
+      213: -6125046873227476825
+    second: combat_updated_60
+  - first:
+      213: 2259621127421176736
+    second: combat_updated_61
+  - first:
+      213: 2102402399935030228
+    second: combat_updated_62
+  - first:
+      213: -4070987777733208240
+    second: combat_updated_63
+  - first:
+      213: 3420866154282576118
+    second: combat_updated_64
+  - first:
+      213: -4292300710025384254
+    second: combat_updated_65
+  - first:
+      213: -8025274256771353736
+    second: combat_updated_66
+  - first:
+      213: 3380626558196322943
+    second: combat_updated_67
+  - first:
+      213: 31303179467904824
+    second: combat_updated_68
+  - first:
+      213: -6789641647677254435
+    second: combat_updated_69
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: combat_updated_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 166
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97eb316c414185144aae643cd7fbaa11
+      internalID: 8748476148437281810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 163
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85a8de2b0c3fc046a633320c04fb2e1
+      internalID: -1563467752075032759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 163
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb92986afd28d44982846fa85a13b35
+      internalID: -7231170965505823715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 167
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f18ef86d242854fb64c3133a5b24aa
+      internalID: -3227456427991303392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 163
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae4d41d873a7214880dab8209645f8f
+      internalID: 4560344839099279447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 163
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e48395cd6f3944c927245912ca419d
+      internalID: 2944643596424886426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_6
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 162
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbedca5c6c4d9eb4f80af28a95d1cb9e
+      internalID: -199174649603529453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 166
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ced1fd6b13f4e4689f4119551a5565
+      internalID: 7426536631436051734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_8
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 166
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6474c8eb6ad6c73418a888523ec01db7
+      internalID: -1555755170642113946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_9
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 166
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa69c08c650f2446b554c21dbf6391d
+      internalID: -7290539511199954909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_10
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 166
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fba6191d457aa419e754e6393d83dc
+      internalID: -4124731739027366227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_11
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 166
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f34f6f0533ef6742a23c3d55080a11c
+      internalID: -1145279110665485175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: umbrella
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 170
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22187e918411c29468e21ad9e2a4198f
+      internalID: -7170225882047947597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 133
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12dbea897ac45c4ab39edf5da480410
+      internalID: 3482264931588965227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 133
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff919004a11e44f449a638f603beab91
+      internalID: 8932382129070685705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 133
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5afcb359290d1f45a2b9078edc26613
+      internalID: -3672532184779987000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 133
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1cd6678915f2548aedd506147557f8
+      internalID: 2984744458496888240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_17
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 129
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686da700ad0abbe48b1fa2739dcbe290
+      internalID: -2507471588570971570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_18
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 130
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4d53e06b90ba9448e6c069cd4201fb
+      internalID: -6776225411287495964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_19
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 130
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f26e874c7c7acf408a36d6d2bbbbf7b
+      internalID: 5888913325161048301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_20
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 134
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e507064d39be541ab59166f1d78690
+      internalID: 6473278771003092607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_21
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 130
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9eb9673c4d8a94aa0576fd4b57fd1c
+      internalID: -12495914874930384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_22
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 137
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1823376e2d7d2468c0d323315aa1bc
+      internalID: -2717229393954955698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 130
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7c8aeca37dd1b4ba2ed5c3b174831f
+      internalID: -516906656067615918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_24
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 133
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf1c1d08ecf5b049836fd5fd81b2044
+      internalID: 2251680958662784092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_25
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 137
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24a2e9b23459ae4fb5af95722a6bc7d
+      internalID: 4501285492535815340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_26
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 133
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29605b4fcf9ff634e80ea981bb3626c6
+      internalID: 4483538741165097258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 97
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dc4617f4a6a4d4095e2e8c7e3894f6
+      internalID: 5916780677032748628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 97
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d28ac7472880e4d8a83419cde8c21e
+      internalID: 7768643708951853797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_29
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 97
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56fc2168c563b14bba9367155df24a9
+      internalID: 6494582010046425213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_30
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 97
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c1cf9994dfbad4f93c8f9c59ff1afe
+      internalID: -8644221331487233099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_31
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 97
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee0894513a91f84a839eaebf54dc098
+      internalID: 8646826301987706553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_32
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 99
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720c047bf8b3cf842b883b3949651aaf
+      internalID: 670626249510485587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_33
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 96
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8676231d6a86ab43b1085bc125b5018
+      internalID: 1296344330560873361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_34
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 97
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d70409d3f281814c821fb9c9f23f52c
+      internalID: -9042582044728290859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_35
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 97
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7313051d00b684984028ebdaca945e
+      internalID: -4458122194771548581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_36
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 103
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae576318b58a5f40bc050c808738dba
+      internalID: 6825387029977497843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 103
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbcc412e05aa3545973c558c17d558d
+      internalID: -8330688333580531821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_38
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 103
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b67e5bffc1bd4f458886132db179377
+      internalID: -3910711791504187223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_39
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 65
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29dad8147301cb4992383112d74431d
+      internalID: -1955263267673311816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_40
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 65
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec7b17a4a8e4fe4a8b1ffbd41f48e7e
+      internalID: 4534144929048271953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_41
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 64
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee3d536c75d11040ade5d2f37166ff1
+      internalID: 72659553780209743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 67
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c43cf5ebd66c04b9422506024aa4b3
+      internalID: 8451948100401901869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_43
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 65
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62a49100e47ae84a8b3acae4c9c77bf
+      internalID: -1350722199379167044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_44
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 65
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7003869632a9446854da419bf43486
+      internalID: 5086043148694755495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_45
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 65
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d019694c433d334ca68be5253725ea0
+      internalID: -3374003515107877732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_46
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 65
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303e2776e23910949aad1aacf9b75d2a
+      internalID: 8950073703411465059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_47
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 65
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04426901b5615bb4b8f76fdbb155f3dd
+      internalID: 2712121418031136159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_48
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 70
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdd0ea3d0d9710439705207bafce15a
+      internalID: 1665765156619762983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_49
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 71
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e342797bb2fee447ac840c0cd399681
+      internalID: -7477822645758431129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_50
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 38
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79659e0a6c854046a50a8922ff54ce5
+      internalID: 1493651950957659209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_51
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 39
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd50d6460d6bc046a9559ec4f879f1a
+      internalID: 3864032438297015840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_52
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 38
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f7c57230107b445bd379d0009a4f71
+      internalID: -7376388083611511073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_53
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 36
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab182c0b0600f1044b1f6786a62038e8
+      internalID: 9148042299406976773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_54
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 37
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d2b55f74f5b634db453e5d0be59b30
+      internalID: -7770381960855375466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_55
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 38
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4067cd3dd025740ad514092b7f4818
+      internalID: -638469079491348456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_56
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 37
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa245bbefe0e9664788efd1f206ef13e
+      internalID: 6221107915917414909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_57
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 36
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e965f18f85843d74eb32c604a8682985
+      internalID: -3331162373545466191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_58
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 42
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97338aecfd03f3340a3289430e207c7e
+      internalID: -8028022635667174883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_59
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 41
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cab04eb011cdc43bfd26c6d58b7e6d
+      internalID: -8362971176372202730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d0b983bd609b84783f49d4aabf6f12
+      internalID: -6125046873227476825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_61
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 5
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a337ad6ddaa39a84da23a48e45c53328
+      internalID: 2259621127421176736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_62
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 6
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84afea6882457f4ba5522c35df72400
+      internalID: 2102402399935030228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_63
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 5
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be373b63807afd4d9722aeafd7cd02b
+      internalID: -4070987777733208240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_64
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 4
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69b7333e26b0bb47b0067f6429a7e85
+      internalID: 3420866154282576118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_65
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 6
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5ed03e210a6654792b692ccfb460c4
+      internalID: -4292300710025384254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_66
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 7
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1c6850109783146be90f54a77e284b
+      internalID: -8025274256771353736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_67
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 6
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8c347e50ed50048b34e541d181e157
+      internalID: 3380626558196322943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_68
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 16
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674aefa50ec525f4dba5bbab49a7ae15
+      internalID: 31303179467904824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combat_updated_69
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 15
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439e5627b3cb91540b3401773fef4487
+      internalID: -6789641647677254435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c3b4fc1a02fc5ba4bbd2d17235a82cd9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

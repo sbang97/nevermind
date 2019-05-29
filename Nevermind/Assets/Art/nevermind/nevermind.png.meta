@@ -1,0 +1,5957 @@
+fileFormatVersion: 2
+guid: 4ed09a54ac2909741bc3b2ba7f835d19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4067474857730389074
+    second: nevermind_0
+  - first:
+      213: 4945156561865770470
+    second: nevermind_1
+  - first:
+      213: 4594528470462832807
+    second: nevermind_2
+  - first:
+      213: 2785659789731215471
+    second: nevermind_3
+  - first:
+      213: -4845243918276064175
+    second: nevermind_4
+  - first:
+      213: 4708964435724248787
+    second: nevermind_5
+  - first:
+      213: -4299003214379585490
+    second: nevermind_6
+  - first:
+      213: 6544144940612690478
+    second: nevermind_7
+  - first:
+      213: -5788414968518531642
+    second: nevermind_8
+  - first:
+      213: 823273552868836320
+    second: nevermind_9
+  - first:
+      213: -6328535158495073871
+    second: nevermind_10
+  - first:
+      213: -4572292500922311215
+    second: nevermind_11
+  - first:
+      213: 7303747391658687096
+    second: nevermind_12
+  - first:
+      213: 5293247716512431462
+    second: nevermind_13
+  - first:
+      213: 8529658626330520719
+    second: nevermind_14
+  - first:
+      213: -6550568416382807733
+    second: nevermind_15
+  - first:
+      213: 7732656442863378222
+    second: nevermind_16
+  - first:
+      213: -4750066378388545404
+    second: nevermind_17
+  - first:
+      213: -4179563177346495546
+    second: nevermind_18
+  - first:
+      213: -6908513762423994830
+    second: nevermind_19
+  - first:
+      213: -7514855587028862373
+    second: nevermind_20
+  - first:
+      213: -1988565229980383002
+    second: nevermind_21
+  - first:
+      213: 1433329090905476949
+    second: nevermind_22
+  - first:
+      213: 4209319705119976463
+    second: nevermind_23
+  - first:
+      213: -5362412267973028927
+    second: nevermind_24
+  - first:
+      213: -2843184493287255287
+    second: nevermind_25
+  - first:
+      213: 1304080502589049628
+    second: nevermind_26
+  - first:
+      213: -8792721958259480057
+    second: nevermind_27
+  - first:
+      213: 4123633935088371501
+    second: nevermind_28
+  - first:
+      213: 1634467211985920947
+    second: nevermind_29
+  - first:
+      213: 250066449470631327
+    second: nevermind_30
+  - first:
+      213: 8849760865970248432
+    second: nevermind_31
+  - first:
+      213: -5477053821089604213
+    second: nevermind_32
+  - first:
+      213: 6807404339067074662
+    second: nevermind_33
+  - first:
+      213: 1804402294516181183
+    second: nevermind_34
+  - first:
+      213: -134493944738382178
+    second: nevermind_35
+  - first:
+      213: 518771157647236124
+    second: nevermind_36
+  - first:
+      213: 411108580090091793
+    second: nevermind_37
+  - first:
+      213: -1388520605290746071
+    second: nevermind_38
+  - first:
+      213: 2496510412523736309
+    second: nevermind_39
+  - first:
+      213: -8431322969927607522
+    second: nevermind_40
+  - first:
+      213: -3648695219555120263
+    second: nevermind_41
+  - first:
+      213: -4746469491086782598
+    second: nevermind_42
+  - first:
+      213: -8327418695399755200
+    second: nevermind_43
+  - first:
+      213: 6425349285468337851
+    second: nevermind_44
+  - first:
+      213: -2931981637816090246
+    second: nevermind_45
+  - first:
+      213: -4009661115118974387
+    second: nevermind_46
+  - first:
+      213: 8722173598787607147
+    second: nevermind_47
+  - first:
+      213: 4549852122597714518
+    second: nevermind_48
+  - first:
+      213: -6608061789087769093
+    second: nevermind_49
+  - first:
+      213: -7185161027897959709
+    second: nevermind_50
+  - first:
+      213: -1914569481371034571
+    second: nevermind_51
+  - first:
+      213: -4286970843849002099
+    second: nevermind_52
+  - first:
+      213: -8509912959160083059
+    second: nevermind_53
+  - first:
+      213: 311497614137720603
+    second: nevermind_54
+  - first:
+      213: -2290582136757177449
+    second: nevermind_55
+  - first:
+      213: 8689430086426533614
+    second: nevermind_56
+  - first:
+      213: 1264666167016127597
+    second: nevermind_57
+  - first:
+      213: -2053292310858533707
+    second: nevermind_58
+  - first:
+      213: 2427619331732564908
+    second: nevermind_59
+  - first:
+      213: -6849447438473813634
+    second: nevermind_60
+  - first:
+      213: -6679986205100283352
+    second: nevermind_61
+  - first:
+      213: -6260649573688414836
+    second: nevermind_62
+  - first:
+      213: -7586669628408125788
+    second: nevermind_63
+  - first:
+      213: -9219111407750097932
+    second: nevermind_64
+  - first:
+      213: 2260327028689955661
+    second: nevermind_65
+  - first:
+      213: 5059867159387006456
+    second: nevermind_66
+  - first:
+      213: -7990298380654729649
+    second: nevermind_67
+  - first:
+      213: -883677941715842366
+    second: nevermind_68
+  - first:
+      213: -293811771313118574
+    second: nevermind_69
+  - first:
+      213: -6648567401520599571
+    second: nevermind_70
+  - first:
+      213: -6522184152568123999
+    second: nevermind_71
+  - first:
+      213: 3710607952732631569
+    second: nevermind_72
+  - first:
+      213: -4369063090311259838
+    second: nevermind_73
+  - first:
+      213: 4345911753774560756
+    second: nevermind_74
+  - first:
+      213: 5626216277561748427
+    second: nevermind_75
+  - first:
+      213: 5768800813671280633
+    second: nevermind_76
+  - first:
+      213: -2760210658600888176
+    second: nevermind_77
+  - first:
+      213: -5387519680834879669
+    second: nevermind_78
+  - first:
+      213: -8394376810306366437
+    second: nevermind_79
+  - first:
+      213: -3360804412193120703
+    second: nevermind_80
+  - first:
+      213: 9199515770515310985
+    second: nevermind_81
+  - first:
+      213: -8292774904567235473
+    second: nevermind_82
+  - first:
+      213: -6464474674818904099
+    second: nevermind_83
+  - first:
+      213: -6102755813514094412
+    second: nevermind_84
+  - first:
+      213: 8272742255471938706
+    second: nevermind_85
+  - first:
+      213: 4110815862748352922
+    second: nevermind_86
+  - first:
+      213: 138478699358325939
+    second: nevermind_87
+  - first:
+      213: 4100880874140827226
+    second: nevermind_88
+  - first:
+      213: 2352749662534180304
+    second: nevermind_89
+  - first:
+      213: 4398722176770740088
+    second: nevermind_90
+  - first:
+      213: -2283229294997629215
+    second: nevermind_91
+  - first:
+      213: 6595883048333330481
+    second: nevermind_92
+  - first:
+      213: -1036530808781463888
+    second: nevermind_93
+  - first:
+      213: -1768520582497549668
+    second: nevermind_94
+  - first:
+      213: -911919170736240761
+    second: nevermind_95
+  - first:
+      213: -1745137828381418656
+    second: nevermind_96
+  - first:
+      213: 8317150797595579381
+    second: nevermind_97
+  - first:
+      213: 8868550791886476133
+    second: nevermind_98
+  - first:
+      213: -448196580676191405
+    second: nevermind_99
+  - first:
+      213: -1449209689215016118
+    second: nevermind_100
+  - first:
+      213: -4093670969291817539
+    second: nevermind_101
+  - first:
+      213: -3260464782999096185
+    second: nevermind_102
+  - first:
+      213: 3280521738473636855
+    second: nevermind_103
+  - first:
+      213: -1658321450258588027
+    second: nevermind_104
+  - first:
+      213: -7103099099520296638
+    second: nevermind_105
+  - first:
+      213: -2123815282645525797
+    second: nevermind_106
+  - first:
+      213: 2161326998919645527
+    second: nevermind_107
+  - first:
+      213: 1871664998346374494
+    second: nevermind_108
+  - first:
+      213: 1327062332015750247
+    second: nevermind_109
+  - first:
+      213: 7274005298268974839
+    second: nevermind_110
+  - first:
+      213: -6280376250656481268
+    second: nevermind_111
+  - first:
+      213: -6220124508120224204
+    second: nevermind_112
+  - first:
+      213: 6561146390329785843
+    second: nevermind_113
+  - first:
+      213: 4659083607155688947
+    second: nevermind_114
+  - first:
+      213: 4839093014701363727
+    second: nevermind_115
+  - first:
+      213: 5282897401756167373
+    second: nevermind_116
+  - first:
+      213: 1382723957498850639
+    second: nevermind_117
+  - first:
+      213: 2112392356621504797
+    second: nevermind_118
+  - first:
+      213: -7227729724888281776
+    second: nevermind_119
+  - first:
+      213: 8094312003229020007
+    second: nevermind_120
+  - first:
+      213: -3986192687728189271
+    second: nevermind_121
+  - first:
+      213: 5250040831273609810
+    second: nevermind_122
+  - first:
+      213: 1528193863881214512
+    second: nevermind_123
+  - first:
+      213: -3189964408467710165
+    second: nevermind_124
+  - first:
+      213: 4455945563897627820
+    second: nevermind_125
+  - first:
+      213: -1240709865681074051
+    second: nevermind_126
+  - first:
+      213: 6311393053063021384
+    second: nevermind_127
+  - first:
+      213: -5279726977541527017
+    second: nevermind_128
+  - first:
+      213: -4649401758394301894
+    second: nevermind_129
+  - first:
+      213: 5599848159500672785
+    second: nevermind_130
+  - first:
+      213: -4349500550825774093
+    second: nevermind_131
+  - first:
+      213: -7750764290255812630
+    second: nevermind_132
+  - first:
+      213: -4063204812213470582
+    second: nevermind_133
+  - first:
+      213: 3457827963685061298
+    second: nevermind_134
+  - first:
+      213: -4777829449764405706
+    second: nevermind_135
+  - first:
+      213: 2629171194694674515
+    second: nevermind_136
+  - first:
+      213: 7144806099483017331
+    second: nevermind_137
+  - first:
+      213: -6921473016901824845
+    second: nevermind_138
+  - first:
+      213: -8318898733955263791
+    second: nevermind_139
+  - first:
+      213: -2821288736569981576
+    second: nevermind_140
+  - first:
+      213: 3773023289875263527
+    second: nevermind_141
+  - first:
+      213: -7982305062814749566
+    second: nevermind_142
+  - first:
+      213: -8115360455717897471
+    second: nevermind_143
+  - first:
+      213: 1201036933113347557
+    second: nevermind_144
+  - first:
+      213: -8403093087896281216
+    second: nevermind_145
+  - first:
+      213: -4715946466982252042
+    second: nevermind_146
+  - first:
+      213: 4332889054588703686
+    second: nevermind_147
+  - first:
+      213: -1294842568345845255
+    second: nevermind_148
+  - first:
+      213: 1663953616323101719
+    second: nevermind_149
+  - first:
+      213: 6376995025178334443
+    second: nevermind_150
+  - first:
+      213: -1689344031052011818
+    second: nevermind_151
+  - first:
+      213: 3168070764641401605
+    second: nevermind_152
+  - first:
+      213: -3562106929991496896
+    second: nevermind_153
+  - first:
+      213: 836200882192657593
+    second: nevermind_154
+  - first:
+      213: 3959698082977915140
+    second: nevermind_155
+  - first:
+      213: 6310421366768853223
+    second: nevermind_156
+  - first:
+      213: -193814963692423075
+    second: nevermind_157
+  - first:
+      213: -6250588907955977418
+    second: nevermind_158
+  - first:
+      213: 9097317971916074628
+    second: nevermind_159
+  - first:
+      213: 755648068763286735
+    second: nevermind_160
+  - first:
+      213: -6173491566521107510
+    second: nevermind_161
+  - first:
+      213: -7939155549449411462
+    second: nevermind_162
+  - first:
+      213: 1912018576714320726
+    second: nevermind_163
+  - first:
+      213: -2316664898143566087
+    second: nevermind_164
+  - first:
+      213: -2005848656997087565
+    second: nevermind_165
+  - first:
+      213: -7116223167082131689
+    second: nevermind_166
+  - first:
+      213: -4354041898971661521
+    second: nevermind_167
+  - first:
+      213: -3965704463078147248
+    second: nevermind_168
+  - first:
+      213: 8073909272547276968
+    second: nevermind_169
+  - first:
+      213: 7888381185565616475
+    second: nevermind_170
+  - first:
+      213: 4509717453742531324
+    second: nevermind_171
+  - first:
+      213: 7528101468078211493
+    second: nevermind_172
+  - first:
+      213: -6976907791307950281
+    second: nevermind_173
+  - first:
+      213: -146135266993826168
+    second: nevermind_174
+  - first:
+      213: -3278672062392013866
+    second: nevermind_175
+  - first:
+      213: -3121134307374918075
+    second: nevermind_176
+  - first:
+      213: 7995671372575385290
+    second: nevermind_177
+  - first:
+      213: 7635788523311198825
+    second: nevermind_178
+  - first:
+      213: 7895027856108310175
+    second: nevermind_179
+  - first:
+      213: 7668219659288610117
+    second: nevermind_180
+  - first:
+      213: -6301589714573323477
+    second: nevermind_181
+  - first:
+      213: 685754230272973975
+    second: nevermind_182
+  - first:
+      213: -5013396425819168010
+    second: nevermind_183
+  - first:
+      213: 5132888976186569004
+    second: nevermind_184
+  - first:
+      213: 1606579896429766823
+    second: nevermind_185
+  - first:
+      213: -3096148955817427954
+    second: nevermind_186
+  - first:
+      213: -7743771925413845747
+    second: nevermind_187
+  - first:
+      213: 2734140295894887188
+    second: nevermind_188
+  - first:
+      213: -7506753244887489883
+    second: nevermind_189
+  - first:
+      213: 4907679339240631595
+    second: nevermind_190
+  - first:
+      213: 3688227055294152272
+    second: nevermind_191
+  - first:
+      213: 3785675020821092806
+    second: nevermind_192
+  - first:
+      213: -248200082783520216
+    second: nevermind_193
+  - first:
+      213: 4863703897366963960
+    second: nevermind_194
+  - first:
+      213: -8801369775608469038
+    second: nevermind_195
+  - first:
+      213: 2965433508998119363
+    second: nevermind_196
+  - first:
+      213: 8096896426667661317
+    second: nevermind_197
+  - first:
+      213: -611937740133500831
+    second: nevermind_198
+  - first:
+      213: 1102832324658498912
+    second: nevermind_199
+  - first:
+      213: -7325946832566493578
+    second: nevermind_200
+  - first:
+      213: -7290206442795902096
+    second: nevermind_201
+  - first:
+      213: 8300213795637270775
+    second: nevermind_202
+  - first:
+      213: 7781397925937799333
+    second: nevermind_203
+  - first:
+      213: 1753718341300260736
+    second: nevermind_204
+  - first:
+      213: 4940790530573172100
+    second: nevermind_205
+  - first:
+      213: -1781912107206499967
+    second: nevermind_206
+  - first:
+      213: -4909055822878309218
+    second: nevermind_207
+  - first:
+      213: -831540899341310028
+    second: nevermind_208
+  - first:
+      213: -4318410334119207372
+    second: nevermind_209
+  - first:
+      213: 2672924467090866566
+    second: nevermind_210
+  - first:
+      213: -4770127069167639000
+    second: nevermind_211
+  - first:
+      213: -3824754490054110414
+    second: nevermind_212
+  - first:
+      213: 2292723518036915694
+    second: nevermind_213
+  - first:
+      213: -5973675220586444389
+    second: nevermind_214
+  - first:
+      213: -4654148475359911225
+    second: nevermind_215
+  - first:
+      213: 8761948880078452297
+    second: nevermind_216
+  - first:
+      213: -9201556783025317968
+    second: nevermind_217
+  - first:
+      213: 4733850573746576790
+    second: nevermind_218
+  - first:
+      213: 839980518831225514
+    second: nevermind_219
+  - first:
+      213: -8437573267562517544
+    second: nevermind_220
+  - first:
+      213: -1496357965007126202
+    second: nevermind_221
+  - first:
+      213: 1932538193252942107
+    second: nevermind_222
+  - first:
+      213: -1446622066971716505
+    second: nevermind_223
+  - first:
+      213: -8810198803843487968
+    second: nevermind_224
+  - first:
+      213: 8715945862994019956
+    second: nevermind_225
+  - first:
+      213: -3561497474044923036
+    second: nevermind_226
+  - first:
+      213: 8043497231362309640
+    second: nevermind_227
+  - first:
+      213: 8643880919927632362
+    second: nevermind_228
+  - first:
+      213: 2644652043840749449
+    second: nevermind_229
+  - first:
+      213: 2376820746568951952
+    second: nevermind_230
+  - first:
+      213: -8546266251037404108
+    second: nevermind_231
+  - first:
+      213: -7151370505469028264
+    second: nevermind_232
+  - first:
+      213: 1901488445227043064
+    second: nevermind_233
+  - first:
+      213: 8604255381564989196
+    second: nevermind_234
+  - first:
+      213: -7737051159712507868
+    second: nevermind_235
+  - first:
+      213: 8490422214240559008
+    second: nevermind_236
+  - first:
+      213: 1042235841135762339
+    second: nevermind_237
+  - first:
+      213: -7476646212119969888
+    second: nevermind_238
+  - first:
+      213: 977105024026021174
+    second: nevermind_239
+  - first:
+      213: -3767660380895482454
+    second: nevermind_240
+  - first:
+      213: -2011880655154247433
+    second: nevermind_241
+  - first:
+      213: 2080931220396232305
+    second: nevermind_242
+  - first:
+      213: -7773527034583257155
+    second: nevermind_243
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nevermind_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23e251a7fc2f1146ac353e79753c244
+      internalID: -4067474857730389074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f241b877c86424f90b9c31c4a532c7
+      internalID: 4945156561865770470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f16cba7a3db8a1449cb277bf6f9f1ab
+      internalID: 4594528470462832807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27612db4466e4864993344aa619ae5ac
+      internalID: 2785659789731215471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892816e8ae010724d8ee9969edcb7d88
+      internalID: -4845243918276064175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e3551b4b4385b4984acbb64d29ad8c
+      internalID: 4708964435724248787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e54d9162a385a04cb585bf3f9d7b2fb
+      internalID: -4299003214379585490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9da26a945cf114c899d103877b04f3
+      internalID: 6544144940612690478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f5d166f8a2baf469d1bf31be011223
+      internalID: -5788414968518531642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3b1482f2c531d439d9bcb4793efaa8
+      internalID: 823273552868836320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_10
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665e9e020172e86449705cde0d71451f
+      internalID: -6328535158495073871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_11
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb41bb0804755f4799e556dc5e380f3
+      internalID: -4572292500922311215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02b860d54dca324fbc59a765b7e767a
+      internalID: 7303747391658687096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_13
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba74220b0f734ae42853eef64a927599
+      internalID: 5293247716512431462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_14
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3ec960853c88a489ad2be7ec33c71d
+      internalID: 8529658626330520719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939f963e05180e34694dae2c5a6fdf9c
+      internalID: -6550568416382807733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d8c87ee707075488e08c687cc254b2
+      internalID: 7732656442863378222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad4f34fc4b3ed541a89cae93798810d
+      internalID: -4750066378388545404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee45d2d7e30431544b2b7aca52ac8dba
+      internalID: -4179563177346495546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c23b7aa2ac0f043b0270b6d048a26c
+      internalID: -6908513762423994830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfc3a6ca0ad1604d9d0b67e6c5baab3
+      internalID: -7514855587028862373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_21
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f3910390ce535428f7327b3c8806cc
+      internalID: -1988565229980383002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_22
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beedd41e370d13844815f0ecd5632f42
+      internalID: 1433329090905476949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_23
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81c6b16ddfd6ce468e9f810961c5be7
+      internalID: 4209319705119976463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_24
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf01a41a28c7795429b8784023e52372
+      internalID: -5362412267973028927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_25
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b663dc836e1ae49b26fc6a3cca2d30
+      internalID: -2843184493287255287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_26
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7985a838739ada34c97793e52dcc8009
+      internalID: 1304080502589049628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ebc7a9ae69cb34aaaca5fc7f02b3fb
+      internalID: -8792721958259480057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_28
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2950e1978246b448be8f4acf2a8158c
+      internalID: 4123633935088371501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_29
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ce2ccb6061df8458e179ca0159a961
+      internalID: 1634467211985920947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_30
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f35809e5565574c895c289c2fa2968
+      internalID: 250066449470631327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e115f73bd97d924ab4d8d73076b05df
+      internalID: 8849760865970248432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_32
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d607d8c9cf22c0841ade4c608f3e7ebd
+      internalID: -5477053821089604213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947b728bb8f71484f9a1b74fe70a1fe6
+      internalID: 6807404339067074662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_34
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7084987cdcbf1e547a108071ebae61e6
+      internalID: 1804402294516181183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_35
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a5d748c56f5be4487704ad538c6b07
+      internalID: -134493944738382178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_36
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97ae9d5d1b7aba4cb97957006201f2f
+      internalID: 518771157647236124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_37
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0077ea948489a143a5e253020eecc9e
+      internalID: 411108580090091793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_38
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d059e613311724f8b4e0ae94c0cc00
+      internalID: -1388520605290746071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_39
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701963aca5fc0e34d968ac7ab12f5ac5
+      internalID: 2496510412523736309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_40
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23969eeeb9d34ff49a5e628b1c9b9378
+      internalID: -8431322969927607522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_41
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31096b5558244d4788d595b98345d8e
+      internalID: -3648695219555120263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_42
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c44a51eaf092d1429c78b40f9790e1c
+      internalID: -4746469491086782598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_43
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c612911b808ef49b4b4b18ac7749bb
+      internalID: -8327418695399755200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_44
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e8c0970f4945042b67876ffb227b77
+      internalID: 6425349285468337851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_45
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58171810491f0b34eb42868586759c0e
+      internalID: -2931981637816090246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_46
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b681eb9900cc64e9eccd1093f25d02
+      internalID: -4009661115118974387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_47
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4507d9db1f0fff47b5807d7b47424ad
+      internalID: 8722173598787607147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_48
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda63582f09161043a818b9c8851c74a
+      internalID: 4549852122597714518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_49
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154abc7e650ef64429645fdc59ee11a3
+      internalID: -6608061789087769093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_50
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c886b369ca30244b45aa6ae48c3012
+      internalID: -7185161027897959709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_51
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c160f142d906ab54bb70b8b8c4f4cb01
+      internalID: -1914569481371034571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_52
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cb7b9e7e0f1b64cbfd958f17ac15ab
+      internalID: -4286970843849002099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_53
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ba7c9d7e12dd541bd62e08b133dbdd
+      internalID: -8509912959160083059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_54
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed8c6dcd4320ac41915b26d4a0dccd2
+      internalID: 311497614137720603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_55
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5382278c279d3324789f36ca1433d41c
+      internalID: -2290582136757177449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_56
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 960
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17a2024134a15b439584e4729f176da
+      internalID: 8689430086426533614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_57
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 944
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c70fe7ce7894d4290e7184b99ceec2
+      internalID: 1264666167016127597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_58
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 944
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f651f54cb5f54e4a94456639ae74cbe
+      internalID: -2053292310858533707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_59
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 944
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556dae3b0bd70d94b9cc1f96afc6cdac
+      internalID: 2427619331732564908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_60
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 944
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1655d1a3add0144b835c104283b3a8
+      internalID: -6849447438473813634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_61
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 944
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23585b33f17f0ae4f95a925c2149510a
+      internalID: -6679986205100283352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_62
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 944
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c1920c365dc0045bb633d355504431
+      internalID: -6260649573688414836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_63
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 944
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f514e623a6e00e49b06cc02739c2fc8
+      internalID: -7586669628408125788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_64
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 944
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8ccb0cc8fa3b043b18ab867d02b288
+      internalID: -9219111407750097932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_65
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 944
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229bad21f94a0d24ea61c2514c0ca0b5
+      internalID: 2260327028689955661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_66
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 944
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a13c2c3d47444e438e3df6701bfa4cf
+      internalID: 5059867159387006456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_67
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 944
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5aa9bf8c4f256a4cae0017bda2856cf
+      internalID: -7990298380654729649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_68
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 944
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea26ff8c42fd3eb448aaf94e95c1563f
+      internalID: -883677941715842366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_69
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 944
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4113840742ff34b45bac2d1a55bfe652
+      internalID: -293811771313118574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_70
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 944
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b252be9127bc943a2d26b965a61861
+      internalID: -6648567401520599571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_71
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 928
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5080cbf8594fe4ebfc6d7f7c282033
+      internalID: -6522184152568123999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_72
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 928
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54df59b3a700b21439addc2dd1f6c3ae
+      internalID: 3710607952732631569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_73
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 928
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf80074866d4514e8552928c71d03d1
+      internalID: -4369063090311259838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_74
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 928
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6484a00d7316a6a4780632c30df59375
+      internalID: 4345911753774560756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_75
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 928
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7314a68823560a046b53630c590a948f
+      internalID: 5626216277561748427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_76
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 928
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d0203ec5e20964bae959226cd8e7ee
+      internalID: 5768800813671280633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_77
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 928
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209639925cc173c4e8e70ae404694a12
+      internalID: -2760210658600888176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_78
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 928
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfdbe9b49e26784c958264bb4b1df29
+      internalID: -5387519680834879669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_79
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 928
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bff5fa13b27254fad7bec12cf7c1fc
+      internalID: -8394376810306366437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_80
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 928
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579eb894c68e711419d7b841e05b1cf0
+      internalID: -3360804412193120703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_81
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 928
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c812e0fd0336add4abcc0f74724b37fb
+      internalID: 9199515770515310985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_82
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 928
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0bfe81a763a8f4baf8335bafe7e5ac
+      internalID: -8292774904567235473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_83
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 928
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40a8eaef792ddf41b2b2c9d9b129f41
+      internalID: -6464474674818904099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_84
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9634e5e73856f44b978aaf3c196ad2
+      internalID: -6102755813514094412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_85
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2def40fec55db384c9657fbb1cb3de2d
+      internalID: 8272742255471938706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_86
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3ac4da7e32128459de28d0cba3248b
+      internalID: 4110815862748352922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_87
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb2669445245c649bc5499dbf6866e0
+      internalID: 138478699358325939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_88
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655f78391c65cbf4faf27e2c6735f44b
+      internalID: 4100880874140827226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_89
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66700458700d32f45aa1fe79c4405b73
+      internalID: 2352749662534180304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_90
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b4927f5e8fcde4e8117aa8e327cbd6
+      internalID: 4398722176770740088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_91
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3023727c8d771654293806e14dccee4d
+      internalID: -2283229294997629215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_92
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8720c9b91c7cbd84e9a7b7c57e915dbd
+      internalID: 6595883048333330481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_93
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc1a73e0a3216243ab8643aed8f3393
+      internalID: -1036530808781463888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_94
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6121c1187533cc84ea9b78818263a881
+      internalID: -1768520582497549668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_95
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086f078281318674a90096c7405c5d91
+      internalID: -911919170736240761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_96
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987725a048ad8b64891664c5514a69db
+      internalID: -1745137828381418656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_97
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6feced45de1de7044aaadfee893cde46
+      internalID: 8317150797595579381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_98
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d528ed62e4a1c42aa353693fb2baba
+      internalID: 8868550791886476133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_99
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091bbcc4e31831146b5bb9d35b790d8b
+      internalID: -448196580676191405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_100
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c765340087b5bd47968eb29cd4ccc08
+      internalID: -1449209689215016118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_101
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6925ff8973a34643a3e62547db36c49
+      internalID: -4093670969291817539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_102
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b93cede19259f41af743570fa3144f
+      internalID: -3260464782999096185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_103
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0751a116e5603b94c829d72ef47f0c27
+      internalID: 3280521738473636855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_104
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0edcf8617247634aadd10fd5030eb69
+      internalID: -1658321450258588027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_105
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2d97aee71754e4da7ffebd554e0a5a
+      internalID: -7103099099520296638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_106
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e4269dc46199d40878edd51e72ab64
+      internalID: -2123815282645525797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_107
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e9879d6857dfa44be1bf65a8fbfae0
+      internalID: 2161326998919645527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_108
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2a507396e35814d8af076c66d7f64a
+      internalID: 1871664998346374494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_109
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba14e72e62373a479b45af27e335f80
+      internalID: 1327062332015750247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_110
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05175c3fb04d174a917dcc13e3e2f79
+      internalID: 7274005298268974839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_111
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e943ba3e35fc5ff4c8697f0f9b470560
+      internalID: -6280376250656481268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_112
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2d17d9ea4ee62419c63ff458f86325
+      internalID: -6220124508120224204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_113
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba041f0171fd18408f2ff9fd0739486
+      internalID: 6561146390329785843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_114
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f32e06d1a10b1d478a8a1f88a9b4099
+      internalID: 4659083607155688947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_115
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713d4bc5ee3df5f499466d1dabe3541d
+      internalID: 4839093014701363727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_116
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5522a8741dcf64aa68870dbc03abc0
+      internalID: 5282897401756167373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_117
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9815e9d4d955f334ebe85d1b4a29f4c1
+      internalID: 1382723957498850639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_118
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a9847467ebb2a499c4b3b13c6e079a
+      internalID: 2112392356621504797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_119
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fcdd8e8753cd740a06907159b1d358
+      internalID: -7227729724888281776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_120
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5045b9ddb6ea2409515c330fa1cb2a
+      internalID: 8094312003229020007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_121
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82db1de1b1f32774ca2c510adbea6679
+      internalID: -3986192687728189271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_122
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a1e2eaf8501754197e1bb95d339ee7
+      internalID: 5250040831273609810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_123
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd951bc8ec75e049b543f48aec5726e
+      internalID: 1528193863881214512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_124
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2b26f489928de49a7a569d7b5eff7e
+      internalID: -3189964408467710165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_125
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce54d7c3be598674ca61fd55fbdad0df
+      internalID: 4455945563897627820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_126
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab66215c401a014db9bb7ad83118e88
+      internalID: -1240709865681074051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_127
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110ad19ab38824448b1df5fbd658c6c2
+      internalID: 6311393053063021384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_128
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f5e4d3fe27c874cb6cd3e50818009f
+      internalID: -5279726977541527017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_129
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5881a4c449ed5c648b157182908c3cf0
+      internalID: -4649401758394301894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_130
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc06477a412d78e40bf9c8d6392f7c76
+      internalID: 5599848159500672785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_131
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd642b0bdffa999418455f05f1f5deb9
+      internalID: -4349500550825774093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_132
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45254d71dd24fa4aba65e2ff7474c4e
+      internalID: -7750764290255812630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_133
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e763339377277438508ac831866b33
+      internalID: -4063204812213470582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_134
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a50e91936be1249bd9290963a43ad6
+      internalID: 3457827963685061298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_135
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5cf0010ce7653409a3672befbf04a1
+      internalID: -4777829449764405706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_136
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4cd698d828dc04b85d6dae80662c4b
+      internalID: 2629171194694674515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_137
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce721558a180bf4b922567320b736f6
+      internalID: 7144806099483017331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_138
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fc27bbb45ef514598eb9ebb1e8d45c
+      internalID: -6921473016901824845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_139
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d2fcfc5c80ded4783669750159eb2d
+      internalID: -8318898733955263791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_140
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2217fa6af9982e143804924079893a3a
+      internalID: -2821288736569981576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_141
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb90ad5a9eae30141958faa8e57a242f
+      internalID: 3773023289875263527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_142
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef093b3d78031c428e466c2138f4e2a
+      internalID: -7982305062814749566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_143
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae380272df8cad24db1dccc191a8683e
+      internalID: -8115360455717897471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_144
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccf19c9be8c5584583569812a3f2fd2
+      internalID: 1201036933113347557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_145
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baecabc427f24cf46a746212968aca26
+      internalID: -8403093087896281216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_146
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e34bc299b1a934793be6284834984b
+      internalID: -4715946466982252042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_147
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b833ad7cedc17418bb5c955f36546d
+      internalID: 4332889054588703686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_148
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d653feb2dc0c17642842083d1e4a0ff2
+      internalID: -1294842568345845255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_149
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e37e29354538964fb13d41773d76a95
+      internalID: 1663953616323101719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_150
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a18de8ff96ddb74f85b591931cffec3
+      internalID: 6376995025178334443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_151
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32253d1d19ba67f4cbbbb5a0126d4bde
+      internalID: -1689344031052011818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_152
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3efef1b22e4c04e8ae15672cea6651
+      internalID: 3168070764641401605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_153
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3974b8b5081840b4e9f5968920543ff4
+      internalID: -3562106929991496896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_154
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75096c2f3d470d847bd7bcaa530f767b
+      internalID: 836200882192657593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_155
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217e38f9de7e3ac44bb8b59d0e435aa1
+      internalID: 3959698082977915140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_156
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d683df29a47b046a69027cb1c58d4c
+      internalID: 6310421366768853223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_157
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250ef5051f5198842b9cb8c970010bc6
+      internalID: -193814963692423075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_158
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26584c1d65c71cd409a427c3e81fe8b7
+      internalID: -6250588907955977418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_159
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7147368c2e49e4297c439764d55e25
+      internalID: 9097317971916074628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_160
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac3a83eb6fb4c2478ef5c1e7c17142c
+      internalID: 755648068763286735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_161
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f686809b7c45ae43ba57316677aab4e
+      internalID: -6173491566521107510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_162
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe5d987d40b3394dbaa9f3f392c126c
+      internalID: -7939155549449411462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_163
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6cc4b1971e0df4c94652a4ddd09b27
+      internalID: 1912018576714320726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_164
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208d2a52b8a10044fa2444496b1ae1b3
+      internalID: -2316664898143566087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_165
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a76291335f47db4bafb406c95faed5b
+      internalID: -2005848656997087565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_166
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ca37afa7c04a244965dd8dcb642ffc
+      internalID: -7116223167082131689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_167
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035e257e9b904954dba311c16eab9ccf
+      internalID: -4354041898971661521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_168
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3514dc00924eb7242b8da07220f1835f
+      internalID: -3965704463078147248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_169
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe32e713d005724c85aa94d4cfe67bf
+      internalID: 8073909272547276968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_170
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9477809c0f6f461418909d1d6c97a737
+      internalID: 7888381185565616475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_171
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67be78fddf99c064ba393dc465646780
+      internalID: 4509717453742531324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_172
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5aa40c2b4d2484ca99722580fd1a75
+      internalID: 7528101468078211493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_173
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36e9ff5cdc037f4ab5a1080bb25a005
+      internalID: -6976907791307950281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_174
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596ce57dae886214499da463ce1e1d3f
+      internalID: -146135266993826168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_175
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234a0581fad4f9d47a71e5215c6745bc
+      internalID: -3278672062392013866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_176
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052e129d929abf6478f0d039ea21ae8a
+      internalID: -3121134307374918075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_177
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4e0c78856861444b12db4b7302ed98
+      internalID: 7995671372575385290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_178
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e84f29516dab484d9ca60349cd4b815
+      internalID: 7635788523311198825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_179
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a942f5869e9d64a912b19c1691e6ef
+      internalID: 7895027856108310175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_180
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5573db19f1795114d833046d17e1a0e7
+      internalID: 7668219659288610117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_181
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936330f7cb67f264d8e98e2dbf4910a7
+      internalID: -6301589714573323477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_182
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0d1bde0a5c2174ca6897ab7ce4fd63
+      internalID: 685754230272973975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_183
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802b4b358e8020b4da4ccf1a1c6d4062
+      internalID: -5013396425819168010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_184
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c75799353c4024ea303eac1e5e1357
+      internalID: 5132888976186569004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_185
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee93985be7c163d4db5958ef741158d2
+      internalID: 1606579896429766823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_186
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a7069e18053d043ab935f4c1437fe2
+      internalID: -3096148955817427954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_187
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e2cef5d34e8bd44bb676d85509be1c
+      internalID: -7743771925413845747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_188
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26646d832bb0554428b505408bd1632d
+      internalID: 2734140295894887188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_189
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a335492ba4ce1fd43ad8cb1bcf705498
+      internalID: -7506753244887489883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_190
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf13c1c47f1bb542a26f3b5dab99c0e
+      internalID: 4907679339240631595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_191
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f81f7a95767fe4a87b5a7b3c00aeab
+      internalID: 3688227055294152272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_192
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d332d7441f98aa143b8b5c112729d49b
+      internalID: 3785675020821092806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_193
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaff1c46b9e76e469ef2d3ea82cf5dd
+      internalID: -248200082783520216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_194
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2d6d9a07aa4a6449ad0f414e94ace9
+      internalID: 4863703897366963960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_195
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcc6267362d4d84498f064b5e6c99ba
+      internalID: -8801369775608469038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_196
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7844f4f99ac09d24e91104483c7924b2
+      internalID: 2965433508998119363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_197
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d723058e57706d143b4bec498708d3a5
+      internalID: 8096896426667661317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_198
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20263d242f05434cb66590a7a27a5fc
+      internalID: -611937740133500831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_199
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68ebd3eb2be2244e914b49fdf867c2d
+      internalID: 1102832324658498912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_200
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4c2c92d46ea0b41b8ba53004a6f357
+      internalID: -7325946832566493578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_201
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bdd709d72088646ac72843c0e032cc
+      internalID: -7290206442795902096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_202
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cdad40e6816fb478bac2ce7190125a
+      internalID: 8300213795637270775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_203
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4770942dfdc5fe42a7d43c144270caf
+      internalID: 7781397925937799333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_204
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfe1760ffae0b148bf3e1d9ef26a76c
+      internalID: 1753718341300260736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_205
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb67fbe5de5f4d4a8835a552ec3c0f2
+      internalID: 4940790530573172100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_206
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae108abdb68a04a49889a52583168c6c
+      internalID: -1781912107206499967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_207
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade17a27be2aed44da1d5d29f306042f
+      internalID: -4909055822878309218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_208
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a923659809fe1499ff38651ce88043
+      internalID: -831540899341310028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_209
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b54ac2e8041024f8fc2a99904168c2
+      internalID: -4318410334119207372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_210
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd69bf9d569b80f4dbb7406b1e5ce413
+      internalID: 2672924467090866566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_211
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b38637b57be6545bd2468c7909b0cd
+      internalID: -4770127069167639000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_212
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1417ac506b47cee41b4c7a1cb5ff809a
+      internalID: -3824754490054110414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_213
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a841db0714339ce4397c222d505aef57
+      internalID: 2292723518036915694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_214
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8135ad25c0a768c418bb5e116755af16
+      internalID: -5973675220586444389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_215
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4322c6167e67de546b6b7a18248e0819
+      internalID: -4654148475359911225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_216
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5fd73f8a4a17544bac486c2944c06d
+      internalID: 8761948880078452297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_217
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248d53faa3f7a22478141697ae441d45
+      internalID: -9201556783025317968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_218
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563e8eddb0873234eba8b7a4096ee458
+      internalID: 4733850573746576790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_219
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61f3da9010a95c4285fdf48cafa92ac
+      internalID: 839980518831225514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_220
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f6d04fe5c39c848b534fc44df2f015
+      internalID: -8437573267562517544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_221
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacba2fa926f0554eb44bece04a9f9c8
+      internalID: -1496357965007126202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_222
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc30ce5d17a2c44ea66f3bbd891b191
+      internalID: 1932538193252942107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_223
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8d598de9fe87944a79553b2655d6b8
+      internalID: -1446622066971716505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_224
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e52aa7adf6a0d9449bcc51e393190c9
+      internalID: -8810198803843487968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_225
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca9fc4b3d4a7574aa99f6626db12a84
+      internalID: 8715945862994019956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_226
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b2fc2527bd7aa449dc7f00a9033b88
+      internalID: -3561497474044923036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_227
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b2b972d3759914bb285a1bfdd515b2
+      internalID: 8043497231362309640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_228
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2284491d2c4dee54099ce1200d975fe6
+      internalID: 8643880919927632362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_229
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa54660942bb07d47bdc69188a061eb2
+      internalID: 2644652043840749449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_230
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8674a11f180644da05d8892a2c9aec
+      internalID: 2376820746568951952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_231
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0102b265205bca249a76ef3baf5c8211
+      internalID: -8546266251037404108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_232
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a8e9588a15c6e47a31ba1ea240fe06
+      internalID: -7151370505469028264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_233
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ffaf1b501eebe4189beab0741e9246
+      internalID: 1901488445227043064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_234
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6510dc341d378f949a2df089838aeb94
+      internalID: 8604255381564989196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_235
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5770a51469671d542bb41df24c3cc367
+      internalID: -7737051159712507868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_236
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a514f176dd820b3409f58532ba9893a5
+      internalID: 8490422214240559008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_237
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263940989391de74c8598e4d98e7a914
+      internalID: 1042235841135762339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_238
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad49a86d64974c54b89be7c45d2c9322
+      internalID: -7476646212119969888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_239
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44a3fb3a962e7d4ca2706bfa0145538
+      internalID: 977105024026021174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_240
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680f72f0e1576664b930b0267df23e18
+      internalID: -3767660380895482454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_241
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20090a6f4abe9d44b95aed718bc9e8d5
+      internalID: -2011880655154247433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_242
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200c491104ee164459043d1f81fdb621
+      internalID: 2080931220396232305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nevermind_243
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7e045b2d6cd204783fbda2ac392e12
+      internalID: -7773527034583257155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7c69f14daaa488a4c861133c866979a3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
